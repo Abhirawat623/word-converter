@@ -53,5 +53,20 @@ h4{
   width: 400px;
   top: -40px;
   left: 500px;
+      
 
+}
+@media only screen and (max-width: 600px) {
+  .containerA {
+    border:10px solid #A52A2A;
+    border-radius: 15px 15px 15px 15px;
+    border-color: #A52A2A #A52A2A rgb(61, 61, 241) rgb(61, 61, 241) ;
+   
+    width: 200px;
+    height: 60px ;
+    top:  25px;
+    left:180px;
+    opacity: 0.7;
+    padding: 10px;
+  }
 }

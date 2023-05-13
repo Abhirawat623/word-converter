@@ -21,7 +21,7 @@ setText(event.target.value);
 }
 
 
-const  [text , setText] = useState('Enter your word');
+const  [text , setText] = useState('');
 
 return (
 <div>
